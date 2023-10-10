@@ -1,2 +1,2 @@
 # decisiontree-sql-from-scratch
-In this repository, I have implemented the Decision Tree Induction Algorithm in SQL, drawing inspiration from the ID3 algorithm.
+This project showcases my implementation of the Decision Tree Induction Algorithm using SQL. I have crafted this implementation with a reference to the ID3 algorithm, a well-established decision tree construction approach. Within this project, a detailed description of how SQL can be employed to create decision trees and the corresponding code explanation can be found.
